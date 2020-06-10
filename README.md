@@ -7,6 +7,8 @@ Instructor: [Prof. Andrew Ng](https://www.coursera.org/instructor/andrewng)
 
 Offered by: [deeplearning.ai](https://www.coursera.org/specializations/deep-learning)
 
+Language: Python
+
 ## Specialization Certificate:  [Verified by Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/AA3YMR2Q9WYN)
 
 ## Courses
