@@ -1,7 +1,7 @@
 # Deep Learning Specialization
 This repo contains all the projects and assignments that I have completed as a part of DL specialization on Coursera. The specialization covers pretty much all important DL concepts and algorithms from beginner level upto the Advanced level and provides many excellent assignments along with quizzes, so as to strengthen one's understanding. 
 
-**The solutions have been uploaded by me for personal academic purposes and can be used as a reference by others (but I strongly recommend trying out the assignments on your own).**
+**The solutions have been uploaded for personal academic purposes and can be used as a reference by others (but I strongly recommend trying out the assignments on your own).**
 
 Instructor: [Prof. Andrew Ng](https://www.coursera.org/instructor/andrewng)
 
@@ -39,5 +39,5 @@ Offered by: [deeplearning.ai](https://www.coursera.org/specializations/deep-lear
 
   - It starts of with the basics of **RNNs** and then talks in detail about **LSTM and GRU** models. Building **Language models for text generation and Machine Translation application** are also discussed in this course.
   - It discusses very important concepts related to **Word Embedding**, and algorithms like **Word2Vec, & GloVe**. It then goes on to talk about **Attention model and Speech Recognition**.
-  - Via the assignments, it gives a hands-on practice of **Music Generation, and Trigger-word Detection** models, among many others. 
+  - Via the assignments, it gives a hands-on practice of **Music Generation, Sentiment Classification and Trigger-word Detection** models, among many others. 
   
